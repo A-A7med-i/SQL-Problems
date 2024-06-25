@@ -1,4 +1,4 @@
-# Triangle Judgement
+# Triangle Judgement (SQL Solution)
 This program determines whether three given line segment lengths can form a valid triangle.
 
 ## Problem Description
