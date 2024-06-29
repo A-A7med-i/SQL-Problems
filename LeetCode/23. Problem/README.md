@@ -1,4 +1,4 @@
-# Customers Who Never Order
+# Customers Who Never Order (SQL Solution)
 This heading indicates a problem statement related to a database scenario. It aims to identify customers who haven't placed any orders.
 
 ## Problem Description
